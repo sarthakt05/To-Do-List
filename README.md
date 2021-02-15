@@ -3,6 +3,6 @@ To-Do List is software developed for daily working human like school &amp; colle
 
 What you need to know?
 ->
-Tkinter 8.6 tkcalendar (you can find more about this on Google) sqlite3 Ive used SQLiteStudio for managing/editing/creation of database
+Tkinter 8.6 tkcalendar (you can find more about this on Google) sqlite3 I've used SQLiteStudio for managing/editing/creation of database
 
 BASIC Functions: INSERT UPDATE DELETE COUNT no. of Tasks SORT ASC & DESC CHANGE THEME
